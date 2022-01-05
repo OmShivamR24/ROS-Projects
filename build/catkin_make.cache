@@ -1,0 +1,2 @@
+beg_tutorials
+-DCATKIN_DEVEL_PREFIX=/home/shivamrastogi/catkin_workspace/devel -DCMAKE_INSTALL_PREFIX=/home/shivamrastogi/catkin_workspace/install -G Unix Makefiles

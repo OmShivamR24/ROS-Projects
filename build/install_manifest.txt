@@ -1,0 +1,13 @@
+/home/shivamrastogi/catkin_workspace/install/_setup_util.py
+/home/shivamrastogi/catkin_workspace/install/env.sh
+/home/shivamrastogi/catkin_workspace/install/setup.bash
+/home/shivamrastogi/catkin_workspace/install/local_setup.bash
+/home/shivamrastogi/catkin_workspace/install/setup.sh
+/home/shivamrastogi/catkin_workspace/install/local_setup.sh
+/home/shivamrastogi/catkin_workspace/install/setup.zsh
+/home/shivamrastogi/catkin_workspace/install/local_setup.zsh
+/home/shivamrastogi/catkin_workspace/install/.rosinstall
+/home/shivamrastogi/catkin_workspace/install/lib/pkgconfig/beg_tutorials.pc
+/home/shivamrastogi/catkin_workspace/install/share/beg_tutorials/cmake/beg_tutorialsConfig.cmake
+/home/shivamrastogi/catkin_workspace/install/share/beg_tutorials/cmake/beg_tutorialsConfig-version.cmake
+/home/shivamrastogi/catkin_workspace/install/share/beg_tutorials/package.xml

@@ -1,0 +1,10 @@
+rosdistro: 'melodic
+
+  '
+roslaunch:
+  uris: {host_shivamrastogi_aspire_a715_41g__39531: 'http://ShivamRastogi-Aspire-A715-41G:39531/'}
+rosversion: '1.14.12
+
+  '
+run_id: b55dd854-6d37-11ec-b639-e0d4e8d2d75f
+turtlesim: {background_b: 0, background_g: 86, background_r: 255}
