@@ -8,3 +8,4 @@
 
 # modified environment variables
 export PWD='/home/shivamrastogi/catkin_workspace/build'
+export PYTHONPATH="/home/shivamrastogi/catkin_workspace/devel/lib/python3/dist-packages:$PYTHONPATH"
